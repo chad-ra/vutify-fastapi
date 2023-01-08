@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d210f7f"],{b9c5:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" UpdateDementiaKnowledge ")])},u=[],c={data(){return{}},methods:{}},l=c,r=t("2877"),d=Object(r["a"])(l,a,u,!1,null,null,null);n["default"]=d.exports}}]);
+//# sourceMappingURL=chunk-2d210f7f.eeb2b2a2.js.map
